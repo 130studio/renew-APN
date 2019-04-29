@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<MBNProfile xmlns="[http://www.microsoft.com/networking/WWAN/profile/v1](http://www.microsoft.com/networking/WWAN/profile/v1)">
+
+<Name>Profile</Name>
+
+<IsDefault>true</IsDefault>
+
+<SubscriberID>AAAAAAAA</SubscriberID>
+
+<SimIccID>BBBBBBBBBB</SimIccID>
+
+<Context>
+
+<AccessString>APN</AccessString>
+
+<UserLogonCred>
+
+<UserName>USERNAME</UserName>
+
+<Password>PASSWORD</Password>
+
+</UserLogonCred>
+
+<AuthProtocol>CHAP</AuthProtocol>
+
+</Context>
+
+</MBNProfile>
